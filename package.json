@@ -1,0 +1,12 @@
+{
+  "name": "jstask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ask.js",
+  "scripts": {
+    "start": "node ask.js",
+    "start2": "node task4-5-2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
