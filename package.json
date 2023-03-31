@@ -5,7 +5,8 @@
   "main": "ask.js",
   "scripts": {
     "start": "node ask.js",
-    "start2": "node task4-5-2.js"
+    "start2": "node task4-5-2.js",
+    "start3": "node task4-5-3.js"
   },
   "author": "",
   "license": "ISC"
