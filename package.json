@@ -8,7 +8,8 @@
     "start2": "node task4-5-2.js",
     "start3": "node task4-5-3.js",
     "start4": "node task4-5-4.js",
-    "start5": "node task4-5-5.js"
+    "start5": "node task4-5-5.js",
+    "start6": "node task4-5-6.js"
   },
   "author": "",
   "license": "ISC"
