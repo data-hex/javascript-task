@@ -16,7 +16,13 @@
     "start10": "node task5-8-2.js",
     "start11": "node task5-8-3.js",
     "start12": "node task5-8-4.js",
-    "start13": "node task5-8-5.js"
+    "start13": "node task5-8-5.js",
+    "start14": "node task5-8-6.js",
+    "start15": "node task5-8-7.js",
+    "start16": "node task5-8-8.js",
+    "start17": "node task5-8-9.js",
+    "start18": "node task5-8-10.js"
+
   },
   "author": "",
   "license": "ISC"
