@@ -29,7 +29,8 @@
     "start23": "node task5-8-15.js",
     "start24": "node task5-9-1.js",
     "start25": "node task5-9-2.js",
-    "start26": "node task5-9-3.js"
+    "start26": "node task5-9-3.js",
+    "start27": "node task5-9-4.js"
 
   },
   "author": "",
