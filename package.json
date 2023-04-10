@@ -21,7 +21,15 @@
     "start15": "node task5-8-7.js",
     "start16": "node task5-8-8.js",
     "start17": "node task5-8-9.js",
-    "start18": "node task5-8-10.js"
+    "start18": "node task5-8-10.js",
+    "start19": "node task5-8-11.js",
+    "start20": "node task5-8-12.js",
+    "start21": "node task5-8-13.js",
+    "start22": "node task5-8-14.js",
+    "start23": "node task5-8-15.js",
+    "start24": "node task5-9-1.js",
+    "start25": "node task5-9-2.js",
+    "start26": "node task5-9-3.js"
 
   },
   "author": "",
