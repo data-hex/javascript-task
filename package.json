@@ -30,8 +30,12 @@
     "start24": "node task5-9-1.js",
     "start25": "node task5-9-2.js",
     "start26": "node task5-9-3.js",
-    "start27": "node task5-9-4.js"
-
+    "start27": "node task5-9-4.js",
+    "start28": "node task5-9-5.js",
+    "start29": "node task5-9-6.js",
+    "start30": "node task5-9-7.js",
+    "start31": "node task5-9-8.js",
+    "start32": "node task5-9-9.js"
   },
   "author": "",
   "license": "ISC"
