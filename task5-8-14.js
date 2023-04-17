@@ -10,7 +10,7 @@ rl.on('line', (input) => {
     let data = JSON.parse(input);
 
     // -- ваш код начинается тут
-    l = data["movies"]
+    let l = data["movies"]
     for (i=0; i < l.length; i++){
 
         if(l[i]["genre"] != "Drama" && l[i]["genre"] != "Crime") {
