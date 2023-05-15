@@ -39,7 +39,9 @@
     "start33": "node task6-9-3.js",
     "start34": "node task6-9-5.js",
     "start35": "node task10-10-4.js",
-    "start36": "node task11-22-1.js"
+    "start36": "node task11-22-1.js",
+    "start37": "node task11-23-7.js",
+    "start38": "node task11-23-8.js"
   },
   "author": "",
   "license": "ISC"
